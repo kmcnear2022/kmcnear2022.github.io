@@ -13,7 +13,7 @@
 | Item                                         | Links                          | Date    |
 |----------------------------------------------|--------------------------------|---------|
 | Plan                                        | [Plan](Plan) - [Presentation](Presentation)    | Sep 3   |
-| Milestone 1 (Requirement Design Test Presentation Progress Evaluation) | — | Sep 29  |
+| Milestone 1 [Requirements](Requirements) [Design](Design) [Test](Test) [Presentation](Presentation) [Progress Evaluation](Eval) | — | Sep 29  |
 | Milestone 2 [Presentation](Presentation) [Progress Evaluation](Eval) | — | Oct 27  |
 | Milestone 3 [Presentation](Presentation) [Progress Evaluation](Eval) | — | Nov 24  |
 
