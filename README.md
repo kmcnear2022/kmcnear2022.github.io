@@ -14,8 +14,8 @@
 |----------------------------------------------|--------------------------------|---------|
 | Plan                                        | [Plan](Plan File) — [Presentation](Presentation File)    | Sep 3   |
 | Milestone 1 (Requirement Design Test Presentation Progress Evaluation) | — | Sep 29  |
-| Milestone 2 (Presentation Progress Evaluation) | — | Oct 27  |
-| Milestone 3 (Presentation Progress Evaluation) | — | Nov 24  |
+| Milestone 2 (GUI, DFA Logic Implementation, DFA Formatting) | — | Oct 27  |
+| Milestone 3 (DFA Animation, Implement, Test, and Demonstrate Features) | — | Nov 24  |
 
 ## Second Semester
 
@@ -26,4 +26,4 @@
 | Milestone 5 | [Placeholder e](e) [Placeholder f](f) [Placeholder g](g) [Placeholder h](h) | TBD |
 | Milestone 6 | [Placeholder i](i) [Placeholder j](j) [Placeholder k](k) [Placeholder l](l) | TBD |
 
-© Panther Shuttle App
+© DFA Visualizer Program
