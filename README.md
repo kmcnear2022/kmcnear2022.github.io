@@ -21,7 +21,7 @@
 
 | Item        | Links | Date |
 |-------------|-------|------|
-| Plan        | a b   | TBD  |
+| Plan        | a(a) b   | TBD  |
 | Milestone 4 | c d   | TBD  |
 | Milestone 5 | e f g h | TBD |
 | Milestone 6 | i j k l | TBD |
