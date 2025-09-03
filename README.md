@@ -14,8 +14,8 @@
 |----------------------------------------------|--------------------------------|---------|
 | Plan                                        | [Plan](Plan) - [Presentation](Presentation)    | Sep 3   |
 | Milestone 1 (Requirement Design Test Presentation Progress Evaluation) | — | Sep 29  |
-| Milestone 2 (GUI, DFA Logic Implementation, DFA Formatting) | — | Oct 27  |
-| Milestone 3 (DFA Animation, Implement, Test, and Demonstrate Features) | — | Nov 24  |
+| Milestone 2 [Presentation](Presentation) [Progress Evaluation](Eval) | — | Oct 27  |
+| Milestone 3 [Presentation](Presentation) [Progress Evaluation](Eval) | — | Nov 24  |
 
 ## Second Semester
 
