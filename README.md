@@ -12,10 +12,10 @@
 
 | Item                                         | Links                          | Date    |
 |----------------------------------------------|--------------------------------|---------|
-| Plan                                        | [Plan](Plan) - [Presentation](Presentation)    | Sep 3   |
-| Milestone 1:  <span style="color:blue;">Requirements Design Test Presentation Progress Evaluation</span> | — | Sep 29  |
-| Milestone 2:  <span style="color:blue;">Presentation Progress Evaluation</span> | — | Oct 27  |
-| Milestone 3:  <span style="color:blue;">Presentation Progress Evaluation</span> | — | Nov 24  |
+| Plan                                        | [Plan]([Plan](https://docs.google.com/document/d/1cxZg6vUzOyc426Vp5t1NWEJEuGjkIRV3XOc101qbFqY/edit?usp=sharing) - [Presentation]([Presentation](https://docs.google.com/presentation/d/17nyYuatNuR45b2okoVBtpircjlmBZmUv_kL4TvkNAG0/edit?usp=sharing))    | Sep 3   |
+| Milestone 1:  Requirements Design Test Presentation Progress Evaluation | — | Sep 29  |
+| Milestone 2:  Presentation Progress Evaluation | — | Oct 27  |
+| Milestone 3:  Presentation Progress Evaluation| — | Nov 24  |
 
 ## Second Semester
 
