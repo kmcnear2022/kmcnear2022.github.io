@@ -21,7 +21,7 @@
 
 | Item        | Links | Date |
 |-------------|-------|------|
-| Plan        | [Plan](SpringPlan.pdf) [Placeholder b](b)   | TBD  |
+| Plan        | [Plan](SpringPlan.pdf) [Presentation](SpringPresPlan.pdf)   | TBD  |
 | Milestone 4 | [Placeholder c](c) [Placeholder d](d)   | TBD  |
 | Milestone 5 | [Placeholder e](e) [Placeholder f](f) [Placeholder g](g) [Placeholder h](h) | TBD |
 | Milestone 6 | [Placeholder i](i) [Placeholder j](j) [Placeholder k](k) [Placeholder l](l) | TBD |
