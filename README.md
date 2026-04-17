@@ -31,6 +31,6 @@
 | Item        | Link |
 |-------------|-------|
 | Early Access EXE        | [Alpha Access EXE](demo.exe) |
-| Feedback Survey        | [Survey]((https://forms.gle/Yit982r6fq8t68x6A) |
+| Feedback Survey        | [Survey](https://forms.gle/Yit982r6fq8t68x6A) |
 
 © DFA Visualizer Program
