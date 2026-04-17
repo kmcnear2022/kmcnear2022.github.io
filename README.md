@@ -26,4 +26,10 @@
 | Milestone 5 | [Poster](e) [Presentation](pres410final.pdf) [Progress Evaluation](prog5.pdf) | Mar 30 |
 | Milestone 6 | [User/Developer Manual](i) [Demo Video](j) [Presentation](f) [Progress Evaluation](g) | Apr 20 |
 
+## Early Access
+
+| Item        | Link |
+| Early Access EXE        | [Alpha Access EXE](demo.exe) |
+| Feedback Survey        | [Survey]((https://forms.gle/Yit982r6fq8t68x6A) |
+
 © DFA Visualizer Program
