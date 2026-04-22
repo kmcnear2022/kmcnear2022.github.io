@@ -24,7 +24,7 @@
 | Plan        | [Plan](SpringPlan.pdf) [Presentation](24.pdf)   | Jan 26  |
 | Milestone 4 | [Presentation](presm4.pdf) [Progress Evaluation](evalm4.pdf)   | Feb 22  |
 | Milestone 5 | [Poster](e) [Presentation](pres410final.pdf) [Progress Evaluation](prog5.pdf) | Mar 30 |
-| Milestone 6 | [User/Developer Manual](m6manual.pdf) [Demo Video](j) [Presentation](pres6up.pdf) [Progress Evaluation](m6eval.pdf) | Apr 20 |
+| Milestone 6 | [User/Developer Manual](m6manual.pdf) [Demo Video](https://docs.google.com/file/d/1BXCCANTdQYghPHBLxkSabpAmNV6N_ulE/preview) [Presentation](pres6up.pdf) [Progress Evaluation](m6eval.pdf) | Apr 20 |
 
 ## Early Access
 
